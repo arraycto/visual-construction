@@ -1,0 +1,11 @@
+.el-container {
+  min-height: 100vh;
+  align-items: stretch;
+  .el-aside {
+    padding: 20px
+  }
+  .el-main {
+    border-left: 2px solid #f0f0f0;
+    border-right: 2px solid #f0f0f0;
+  }
+}
